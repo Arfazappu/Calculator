@@ -1,0 +1,41 @@
+.text-center{
+  text-align: center;
+}
+
+.bg-black{
+  background:black;
+}
+.bg-grey button{
+    background-color:grey;
+  color:black;
+}
+
+.mx-auto{
+  margin: auto;
+}
+
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+
+.item-center{
+  align-items: center;
+}
+
+.line{
+    width: 62px;
+    height: 3px;
+    border-radius: 10px;
+    background: whitesmoke;
+    margin-top: 11px;
+}
+
+.notch{
+    width: 72px;
+    height: 23px;
+    border-radius: 10px;
+    background: grey;
+}
