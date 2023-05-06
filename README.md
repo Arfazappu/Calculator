@@ -2,7 +2,7 @@
 this is simple calculator built using html, css amd js
 and this project is developed using replit.
 
-#link to project site
+# link to project site
 https://arfazappu.github.io/Calculator/
 
 # output
